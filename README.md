@@ -1,0 +1,1 @@
+O site foi feito para a prova p1 na matéria. Nele há como denunciar queimadas, saber as consequências que elas geram e também duas instituições que ajudam no combate e seus respectivos canais de doações. O site foi desenvolvido através do html e css. As dificuldades enfrentadas foram com as fotos, pois não consegui coloca-las exatamente na direção dos parágrafos
